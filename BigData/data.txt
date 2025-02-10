@@ -1,6 +1,6 @@
-#ID    Name    Age    City    Score
-1      John    25     NY      85.5
-2      Jane    30     TX      92.0
-3      Alice   27     CA      88.0
-4      Bob     24     FL      79.5
-5      Eve     29     WA      95.0
+#EventId    Timestamp    Customer   State    ServiceID    Amount
+201       10/13/2017      100       NY       131          100.00
+204       10/18/2017      700       TX       129          450.00
+202       10/15/2017      203       CA       121          200.00
+205       10/20/2017      404       FL       131          300.00
+203       10/17/2017      305       TX       122          150.00
