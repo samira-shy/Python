@@ -1,0 +1,6 @@
+#ID    Name    Age    City    Score
+1      John    25     NY      85.5
+2      Jane    30     TX      92.0
+3      Alice   27     CA      88.0
+4      Bob     24     FL      79.5
+5      Eve     29     WA      95.0
